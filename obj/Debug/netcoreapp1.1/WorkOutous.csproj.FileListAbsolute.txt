@@ -7,3 +7,12 @@ C:\src\Workoutous Updated File\a1Workoutous\WorkOutous\obj\Debug\netcoreapp1.1\W
 C:\src\Workoutous Updated File\a1Workoutous\WorkOutous\obj\Debug\netcoreapp1.1\WorkOutous.AssemblyInfo.cs
 C:\src\Workoutous Updated File\a1Workoutous\WorkOutous\obj\Debug\netcoreapp1.1\WorkOutous.dll
 C:\src\Workoutous Updated File\a1Workoutous\WorkOutous\obj\Debug\netcoreapp1.1\WorkOutous.pdb
+C:\src\Workout72617\bin\Debug\netcoreapp1.1\WorkOutous.deps.json
+C:\src\Workout72617\bin\Debug\netcoreapp1.1\WorkOutous.runtimeconfig.json
+C:\src\Workout72617\bin\Debug\netcoreapp1.1\WorkOutous.runtimeconfig.dev.json
+C:\src\Workout72617\bin\Debug\netcoreapp1.1\WorkOutous.dll
+C:\src\Workout72617\bin\Debug\netcoreapp1.1\WorkOutous.pdb
+C:\src\Workout72617\obj\Debug\netcoreapp1.1\WorkOutous.csprojResolveAssemblyReference.cache
+C:\src\Workout72617\obj\Debug\netcoreapp1.1\WorkOutous.AssemblyInfo.cs
+C:\src\Workout72617\obj\Debug\netcoreapp1.1\WorkOutous.dll
+C:\src\Workout72617\obj\Debug\netcoreapp1.1\WorkOutous.pdb

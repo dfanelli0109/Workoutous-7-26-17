@@ -10753,10 +10753,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\src\\Workoutous Updated File\\a1Workoutous\\WorkOutous\\WorkOutous.csproj",
+      "projectUniqueName": "C:\\src\\Workout72617\\WorkOutous.csproj",
       "projectName": "WorkOutous",
-      "projectPath": "C:\\src\\Workoutous Updated File\\a1Workoutous\\WorkOutous\\WorkOutous.csproj",
-      "outputPath": "C:\\src\\Workoutous Updated File\\a1Workoutous\\WorkOutous\\obj\\",
+      "projectPath": "C:\\src\\Workout72617\\WorkOutous.csproj",
+      "outputPath": "C:\\src\\Workout72617\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
