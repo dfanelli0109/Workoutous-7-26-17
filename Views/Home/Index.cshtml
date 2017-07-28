@@ -9,8 +9,9 @@
     <!--Responsive Meta Tag-->
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
-   
-    <link rel="stylesheet" type="text/css" href="css/Workoutous.css">
+    <link rel="stylesheet" href="~/css/workoutous.css" media="screen" and min-width="801px" />
+    <link rel="stylesheet" href="~/css/site1.css" media="handheld" and max-width="800px" />
+    
  
     
     <base href="/" />
@@ -30,18 +31,31 @@
                 <a href="#" data-activates="mobile-demo" class="button-collapse" id="icon"><i class="large material-icons">menu</i></a>
                 <ul class="right hide-on-med-and-down">
                  
-                    <li><a class="tab" id="link" data-toggle="modal" data-target="#LoginModal">Login Modal</a></li>
-                    <li><a class="tab" id="link" data-toggle="modal" data-target="#RegisterModal">Register Modal</a></li>
-                    <li><a class="tab" id="link" ui-sref="front.html">Continue</a></li>
+                    <li><a class="tab" id="navlink" ui-sref="login">Log In</a></li>
+                    <li><a class="tab" id="navlink" ui-sref="register">Register</a></li>
+                    <li><a class="tab" id="navlink" ui-sref="front">Continue as Visitor</a></li>
                 </ul>
                 <ul class="side-nav" id="mobile-demo">
-                    <li><img class="logo_on_login" src="~/images/Workoutouslogo7.jpg"> </li>
-                 
-                    <li><a class="tab" data-toggle="modal" data-target="#LoginModal">Login Modal</a></li>
-                    <li><a class="tab" data-toggle="modal" data-target="#RegisterModal">Register Modal</a></li>
-                    <li><a class="tab" ui-sref="front">Front Page</a></li>
-
-                </ul>
+                   _
+                    <a ui-sref="front"> <img class="logo_on_login" id="logologin" src="~/images/Workoutouslogo7.jpg"> </a>
+                    <form>
+                        <div class="row" id="loginmenu">
+                            <!--username-->
+                                <label id="un" for="username">Username</label>
+                                <input id="username" type="text" class="validate">
+                                
+                           
+                            <!--password-->
+                            <label id="pw" for="password">Password</label>
+                                <input id="password" type="password" class="validate">
+                               
+                           
+                        
+                    </form>
+                    <li><a class="tab" id="navlink2" ui-sref="login">Log In</a></li>
+                    <li><a class="tab" id="navlink2" ui-sref="register">Register</a></li>
+                    <li><a class="tab" id="navlink2" ui-sref="front">Let's get Started</a></li>
+                    </ul>
             </div>
         </nav>
     </div>
