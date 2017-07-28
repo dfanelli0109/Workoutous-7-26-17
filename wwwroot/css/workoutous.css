@@ -6,6 +6,10 @@
     text-decoration: none;
 }
 
+#login-menu {
+    margin: 0px;
+}
+
 #navbrand, #link {
     color: white;
 }
